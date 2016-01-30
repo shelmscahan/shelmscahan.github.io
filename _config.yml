@@ -1,2 +1,3 @@
 name: The Helms Cahan Lab
 markdown: kramdown
+permalink: /lab_news/:year/:month/:day/:title
