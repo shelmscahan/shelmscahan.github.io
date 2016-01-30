@@ -2,7 +2,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: lightblue;
+    background-color: url("/assets/DSCI0146.JPG");
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
