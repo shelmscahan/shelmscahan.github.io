@@ -282,7 +282,7 @@
 		-o-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 		-ms-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 		transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
-		text-align: center;
+		text-align: left;
 		border-radius: 0.25em;
 	}
 
