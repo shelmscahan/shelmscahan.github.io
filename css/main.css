@@ -1,3 +1,11 @@
+menu {
+    color: red;
+}
+
+navigation {
+    background-color: #333 /* darkgrey */;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
