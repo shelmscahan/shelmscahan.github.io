@@ -2,11 +2,11 @@
 layout: default
 title: Lab News
 ---
-<h3>{{ page.title }}</h3>
-<a href="http://shelmscahan.github.io/lab_news/atom.xml">Please feel free to subscribe!</a>
-	<ul class="posts">
+		<h3>{{ page.title }}</h3>
+		<a href="http://shelmscahan.github.io/lab_news/atom.xml">Please feel free to subscribe!</a>
+		<ul class="posts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+		  {% for post in site.posts %}
+	    	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		  {% endfor %}
+		</ul>
