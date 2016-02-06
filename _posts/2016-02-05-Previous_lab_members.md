@@ -1,12 +1,12 @@
 ---
 title: Previous Lab Members
 layout: post
-date: 2015-02-05
+date: 2016-02-05
 ---
 
 
 
-<h2>Post-doctoral Researchers</h2>
+#Post-doctoral Researchers
 <a href="http://johnstantongeddes.org/">John Stanton-Geddes, PhD.</a> studied the transcriptomic response to warming in sister species of common woodland ants.
 <a href="http://unitedschoolsnetwork.org/maincampus-ourteam.php">Trevor Manendo, MS 2008 </a>  works on the systematics of North American <i>Lasius</i>. Trevor now works as an 8th grade math teacher at Columbus Collegiate Academy.
 <a href="http://cellbio.uga.edu/directory/yihong-zhou">Yihong Zhou, PhD</a>
