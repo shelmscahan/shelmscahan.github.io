@@ -4,8 +4,6 @@ layout: post
 date: 2016-02-05
 ---
 
-
-
 # Post-doctoral Researchers
 <a href="http://johnstantongeddes.org/">John Stanton-Geddes, PhD.</a> studied the transcriptomic response to warming in sister species of common woodland ants.
 
