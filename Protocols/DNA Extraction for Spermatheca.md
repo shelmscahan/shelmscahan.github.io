@@ -8,7 +8,7 @@ URL: Unknown
 
 The spermatheca, or seminal receptacle, is a female [organ](https://fr.wikipedia.org/wiki/Organe) for storing [spermatozoa](https://fr.wikipedia.org/wiki/Spermatozo%C3%AFde) of certain [insects](https://fr.wikipedia.org/wiki/Insecte) , [mollusks](https://fr.wikipedia.org/wiki/Mollusque) and other [invertebrates](https://fr.wikipedia.org/wiki/Invert%C3%A9br%C3%A9) , such as [spiders](https://fr.wikipedia.org/wiki/Araign%C3%A9e) (wiki-translated from French). 
 
-## Reagent Preparation##
+**Reagent Preparation**
 
 0.5% STE buffer
 
