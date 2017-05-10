@@ -22,8 +22,8 @@
 	body,input,textarea,select
 	{
 		font-family: 'Roboto', sans-serif;
-		font-size: 11pt;
-		font-weight: 300;
+		font-size: 14pt;
+		font-weight: 500;
 		line-height: 1.75em;
 		color: #777;
 	}
