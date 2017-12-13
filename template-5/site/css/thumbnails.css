@@ -1,0 +1,15 @@
+.thumbnail {
+  margin-top: 10px;
+}
+.thumbnail > img,
+.thumbnail a > img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.thumbnail .caption {
+  margin-top: 18px;
+}
+.thumbnail .caption h3 + p {
+  margin-top: 10px;
+}
+/*================   thumbnail/Box  ======================*/

@@ -1,0 +1,91 @@
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+@import url(//fonts.googleapis.com/css?family=Raleway:400,900,800,700,600,500,300,200,100);
+/*==================     Subscribe Form     ======================*/
+.subscribe-form {
+  position: relative;
+  display: block;
+  margin-top: 67px;
+  width: 100%;
+}
+.subscribe-form label {
+  display: inline-block;
+  position: relative;
+  padding: 10.5px 10px 10.5px;
+  background: #777777;
+  border: 1px solid transparent;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.subscribe-form label.name {
+  width: 100%;
+}
+.subscribe-form label.email {
+  width: 100%;
+}
+.subscribe-form input {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  vertical-align: baseline;
+  box-shadow: none;
+  color: #222533;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 28px;
+  letter-spacing: 1.4px;
+  height: 19px;
+}
+.subscribe-form a[data-type="submit"] {
+  width: 100%;
+  max-width: 370px;
+}
+* + a[data-type='submit'] {
+  margin-top: 15px;
+}
+.subscribe-form .error,
+.subscribe-form .success {
+  position: absolute;
+  top: 0;
+  right: 5px;
+  font-size: 10px;
+  line-height: 12px;
+}
+.subscribe-form .error {
+  color: #f00;
+  overflow: hidden;
+  height: 0;
+  -moz-transition: 0.3s all ease;
+  -webkit-transition: 0.3s all ease;
+  -o-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
+.subscribe-form label.invalid .error {
+  height: 21px;
+}
+.subscribe-form .success {
+  display: none;
+  color: #0f0;
+}
+@media (max-width: 1199px) {
+  .subscribe-form label.name,
+  .subscribe-form label.email {
+    display: block;
+    width: 100%;
+  }
+  .subscribe-form * + label,
+  .subscribe-form * + a[data-type='submit'] {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  footer .subscribe-form {
+    margin-left: 0;
+  }
+}
